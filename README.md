@@ -19,7 +19,7 @@ I focus on introducing modern architecture progressively, supporting real-world 
 - Building **AI-powered LMS features** aligned with real usage scenarios and learning outcomes.
 
 ### 🌱 Development Philosophy  
-I value maintainable code, gradual modernization, and solutions that enhance **both user experience and operational efficiency**.
+- I value maintainable code, gradual modernization, and solutions that enhance **both user experience and operational efficiency**.
 
 </details>
 

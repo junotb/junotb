@@ -30,11 +30,10 @@ I focus on introducing modern architecture progressively, supporting real-world 
 ### 💼 이런 일을 해왔어요 
 - Classic ASP + MSSQL 기반 서비스의 구조를 **ASP.NET MVC API 중심으로 재구성**하여 유지보수성과 확장성을 개선했습니다.
 - **WebRTC**를 활용한 실시간 화상 레슨 기능을 운영/개선했습니다.
-- **Gemini API / STT / TTS** 기반으로  
+- **Gemini API / STT / TTS** 기반으로 아래와 같은 **LMS용 AI 기능을 실제 서비스 플로우에 적용**했습니다.
   - AI 레벨 테스트  
   - AI 첨삭  
-  - 학습 피드백 자동화  
-  등을 포함한 **LMS용 AI 기능을 실제 서비스 플로우에 적용**했습니다.
+  - 학습 피드백 자동화
 
 ### 🚀 이런 준비를 하고 있어요
 - Frontend: **Next.js, TypeScript, Tailwind, Zustand**

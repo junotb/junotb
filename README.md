@@ -51,6 +51,6 @@ I focus on solving structural constraints and building cost-effective, scalable 
 
 ### 📊 GitHub Stats
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=junotb&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junotb&layout=compact" />
+  <img height="165" src="https://github-stats-eight-beta.vercel.app/api?username=junotb&count_private=true&include_all_commits=true" />
+  <img src="https://github-stats-eight-beta.vercel.app/api/top-langs/?username=junotb&layout=compact" />
 </div>

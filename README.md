@@ -1,50 +1,51 @@
-### Hi! I'm Juno 👋  
-Full-stack developer improving existing services through **practical modernization, real-time communication**, and **AI-assisted learning features**.
+### Hi! I'm Juno 👋
+Full-stack developer specializing in **Legacy Migration, System Stabilization**, and **AI-driven Service Evolution**.
 
 <details>
 <summary>🇬🇧 English Version</summary>
 <br>
 
-I'm a full-stack web developer experienced in **evolving production systems while keeping services stable**.  
-I focus on introducing modern architecture progressively, supporting real-world operational needs.
+I am a software engineer with 8 years of experience, skilled in **transforming legacy systems into modern architectures** while maintaining business continuity.
+I focus on solving structural constraints and building cost-effective, scalable solutions.
 
 ### 💼 Experience & Contributions
-- Improved a **Classic ASP + MSSQL** based education platform by separating core logic into **ASP.NET MVC APIs**, increasing maintainability and scalability.
-- Developed **WebRTC-based real-time video lesson features**, optimizing performance and session stability.
-- Designed and integrated **AI-driven learning features** using **Gemini API, STT, and TTS**, enabling automated level testing, feedback, and correction workflows.
+- Refactored tightly coupled **Classic ASP** monoliths into a **Layered Architecture** with **ASP.NET RESTful APIs**, significantly improving maintainability and decoupling frontend dependencies.
+- Successfully built a **real-time video lesson platform** by overcoming legacy infrastructure limits (e.g., HTTP/2 unsupported servers) and reducing costs by 80%.
+- Designed an **on-demand AI feedback pipeline** using **Gemini API, STT, and TTS**, automating lesson reviews and minimizing manual workload for instructors.
+- Standardized complex **Payment Gateway (PG) integrations** and developed automated back-office tools to streamline operations and ensure data integrity.
 
 ### 🚀 Current Focus & Projects
-- Modern front-end with **Next.js (App Router), TypeScript, Tailwind, Zustand**.
-- Scalable backend + CI/CD pipelines with **NestJS, Prisma, GCP Cloud Run**.
-- Building **AI-powered LMS features** aligned with real usage scenarios and learning outcomes.
+- Building **Scalable Backend Systems** with **Java, Spring Boot**, and **JPA/Hibernate**.
+- Developing **Interactive Front-end** applications using **Next.js, TypeScript, and Tailwind**.
+- Implementing **High-concurrency ticketing systems** to demonstrate expertise in lock management and traffic handling.
 
-### 🌱 Development Philosophy  
-- I value maintainable code, gradual modernization, and solutions that enhance **both user experience and operational efficiency**.
+### 🌱 Development Philosophy
+- I don't just write code; I find the most practical solution to **business problems**.
+- I prioritize features that provide **real value** to end-users and operational teams.
+- I believe in **gradual, stable modernization** over risky "big bang" rewrites.
 
 </details>
 
 ---
 
-서비스를 **안정적으로 운영**하면서, **점진적으로 모던화**해나가는 풀스택 개발자입니다.
+구조적 한계를 기술로 돌파하고, **비즈니스 가치를 높이는 시스템**을 만드는 개발자입니다.
 
-### 💼 이런 일을 해왔어요 
-- Classic ASP + MSSQL 기반 서비스의 구조를 **ASP.NET MVC API 중심으로 재구성**하여 유지보수성과 확장성을 개선했습니다.
-- **WebRTC**를 활용한 실시간 화상 레슨 기능을 운영/개선했습니다.
-- **Gemini API / STT / TTS** 기반으로 아래와 같은 **LMS용 AI 기능을 실제 서비스 플로우에 적용**했습니다.
-  - AI 레벨 테스트  
-  - AI 첨삭  
-  - 학습 피드백 자동화
+### 💼 이런 일을 해왔어요
+- 강결합된 Classic ASP 시스템을 **계층형 아키텍처 기반의 RESTful API**로 전환하여 프론트엔드 의존성을 제거하고 확장성을 확보했습니다.
+- 인프라 제약(HTTP/2 미지원 등)을 기술적으로 해결하여 **WebRTC 화상 수업 플랫폼**을 구축하고, 운영 비용을 **80% 절감**했습니다.
+- **Gemini API / STT / TTS**를 활용한 '자동 피드백 파이프라인'을 구축하여, 강사의 업무 부담을 줄이고 학습자에게는 **실시간 복습 경험**을 제공했습니다.
+- **통합 결제 모듈**을 표준화하고 운영 자동화 도구(Back-office)를 개발하여 **데이터 정합성**을 확보하고 운영 효율을 높였습니다.
 
 ### 🚀 이런 준비를 하고 있어요
+- Backend: **Java, Spring Boot**, JPA, QueryDSL (Transitioning from .NET)
 - Frontend: **Next.js, TypeScript, Tailwind, Zustand**
-- Backend: **NestJS + Prisma**, CI/CD on **GCP Cloud Run**
-- AI Integration: **Gemini API**, **Speech Recognition (STT)**, **Text-to-Speech (TTS)**
-- Real-time Communication: **WebRTC (Openvidu)**
+- Architecture: **MSA**, Docker, CI/CD pipelines
+- Project: **대규모 트래픽 처리를 고려한 수강 신청/예매 시스템** (Concurrency Control)
 
-### 🌱 이런 개발을 지향해요 
-- 무리한 재개발이 아닌, **단계적이고 실용적인 현대화**  
-- 실제 **사용자 가치와 운영 효율**을 높이는 개선  
-- **한국어/영어** 문서화 & 기술 커뮤니케이션 능력
+### 🌱 이런 개발을 지향해요
+- 기술을 위한 기술이 아닌, **실제 문제를 해결하는 기술**을 씁니다.
+- 무리한 재개발보다는 **안정적인 서비스 운영을 전제로 한 단계적 현대화**를 선호합니다.
+- 복잡한 기술적 문제를 비개발자 동료도 이해할 수 있도록 **쉽게 설명하고 문서화**합니다.
 
 ---
 

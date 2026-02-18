@@ -1,7 +1,5 @@
 ### Hi! I'm Juno 👋
 
-**시스템 현대화, 확장 가능한 아키텍처, 그리고 AI 기반 서비스 고도화**에 특화된 시니어 백엔드 엔지니어입니다.
-
 <details>
 <summary>🇬🇧 English Version</summary>
 <br>
@@ -32,9 +30,7 @@ I focus on overcoming structural constraints and building cost-effective, scalab
 
 </details>
 
----
-
-구조적 한계를 기술로 돌파하고, **비즈니스 가치를 높이는 시스템**을 만드는 엔지니어입니다.
+**시스템 현대화, 확장 가능한 아키텍처, 그리고 AI 기반 서비스 고도화**에 특화된 시니어 백엔드 엔지니어입니다.
 
 ### 💼 이런 일을 해왔어요
 - **시스템 아키텍처 현대화**를 통해 강결합된 모놀리식 시스템을 계층형 아키텍처 기반의 RESTful API 구조로 성공적으로 전환했습니다. 
@@ -54,8 +50,6 @@ I focus on overcoming structural constraints and building cost-effective, scalab
 - 기술은 비즈니스 문제를 해결하고 **실질적인 가치를 창출**할 때 의미가 있다고 믿습니다.
 - 무리한 재개발보다 **안정적인 서비스 운영을 전제로 한 단계적 현대화**를 통해 기술적 부채를 해결합니다.
 - 복잡한 기술적 쟁점을 비개발자 동료도 이해할 수 있도록 **쉽게 설명하고 신속한 의사결정**을 돕습니다.
-
----
 
 ### 📊 GitHub Stats
 <div>

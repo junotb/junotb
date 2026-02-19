@@ -4,52 +4,49 @@
 <summary>🇬🇧 English Version</summary>
 <br>
 
-Senior Backend Engineer specializing in **System Modernization, Scalable Architecture**, and **AI-driven Service Evolution**.
+Backend Engineer (9+ years) specializing in System Modernization and Stable Architecture.
 
-I am a software engineer with over 8 years of experience, skilled in **evolving coupled systems into modern architectures** while maintaining business continuity.
-I focus on overcoming structural constraints and building cost-effective, scalable solutions that drive business growth.
+I believe engineering is about solving business problems through technology and providing real value to users. I enjoy the small happiness of solving each problem one by one.
 
-### 💼 Experience & Contributions
-- **Successfully transitioned coupled monolithic systems** into Layered Architecture and RESTful API structures to ensure system flexibility and scalability.
-- **Designed an on-demand availability calculation engine** to replace pre-generated data insertion, achieving both storage efficiency and data integrity.
-- **Internalized real-time communication technology** by building a proprietary WebRTC platform, resulting in an 80% reduction in annual operational costs.
-- **Architected an automated intelligent review system** using Gemini API and asynchronous processing to optimize system load and operational efficiency.
-- **Ensured data consistency during high-traffic peaks** by implementing Redis Distributed Locks and query tuning for high-concurrency reservation systems.
+### 💼 Experience
+- Transitioned existing systems into Layered Architectures and RESTful APIs to ensure scalability.
+- Built a real-time video class platform to internalize technology and reduce external dependency.
+- Architected a feedback pipeline using Gemini AI to optimize operational load.
+- Designed an on-demand calculation model for availability slots to remove tens of millions of redundant rows and implemented Redis Distributed Locks to guarantee data consistency.
 
-### 🚀 Core Tech Stack
+### 🚀 Tech Stack
 - **Backend**: Java (Spring Boot), ASP.NET (C#), ASP, PHP 
 - **Frontend**: Next.js, TypeScript, Tailwind CSS, React
 - **Database & Cache**: PostgreSQL, Redis (Redisson Distributed Lock), MSSQL, MySQL 
 - **Infra & DevOps**: GCP (Associate Cloud Engineer), Docker, Git, CI/CD, IIS 
 - **Core Tech**: LLM (Gemini API), WebRTC (Twilio), STT/TTS 
 
-### 🌱 Development Philosophy
-- I don't just write code; I find the most practical solution to **business problems**.
-- I prioritize features that provide **real value** to end-users and operational teams.
-- I believe in **gradual, stable modernization** over risky "big bang" rewrites.
+### 🌱 Values
+- I find great fulfillment when the technology I build enhances user convenience and drives business growth.
+- I enjoy the small happiness found in the process of solving technical challenges one by one.
+- I facilitate swift decision-making by explaining complex technical issues in a clear, accessible language for non-technical colleagues.
 
 </details>
 
-**시스템 현대화, 확장 가능한 아키텍처, 그리고 AI 기반 서비스 고도화**에 특화된 시니어 백엔드 엔지니어입니다.
+비효율을 개선하고 안정성을 설계하는 9년 차 백엔드 엔지니어입니다.
 
 ### 💼 이런 일을 해왔어요
-- **시스템 아키텍처 현대화**를 통해 강결합된 모놀리식 시스템을 계층형 아키텍처 기반의 RESTful API 구조로 성공적으로 전환했습니다. 
-- **실시간 가용성 계산 엔진**을 설계하여 데이터 적재 방식의 한계를 극복하고 조회 시점의 실시간 계산 모델로 스토리지 효율과 정합성을 달성했습니다.
-- **자체 WebRTC 플랫폼 구축**으로 기술 내재화를 실현하고 외부 솔루션 의존도를 제거하여 연간 운영 비용을 80% 절감했습니다. 
-- **비동기 AI 피드백 파이프라인**을 구축하여 Gemini API 기반의 자동화된 지능형 리뷰 시스템을 설계하고 운영 부하를 최적화했습니다. 
-- **고부하 트래픽 대응 및 동시성 제어**를 위해 Redis 분산 락과 쿼리 튜닝을 적용하여 대규모 예약 시점의 데이터 무결성을 보장했습니다.
+- 기존 모놀리식 시스템을 계층형 아키텍처와 RESTful API 구조로 전환하여 확장성과 유지보수성을 확보했습니다. 
+- 실시간 화상 수업 플랫폼 구축으로 기술을 내재화하여 외부 솔루션 의존도를 낮췄습니다.
+- 구글 Gemini AI 기반의 피드백 파이프라인을 구축하여 지능형 리뷰 시스템을 설계하고 운영 부하를 최적화했습니다. 
+- 조회 시점 동적 계산 모델을 설계하여 수천만 건의 불필요한 행 생성을 제거하고, Redis 분산 락으로 데이터 정합성을 유지했습니다.
 
-### 🚀 핵심 역량 및 기술 스택
+### 🚀 이런 기술들에 익숙해요
 - **Backend**: Java (Spring Boot), ASP.NET (C#), ASP, PHP 
 - **Frontend**: Next.js, TypeScript, Tailwind CSS, React
 - **Database & Cache**: PostgreSQL, Redis (Redisson Distributed Lock), MSSQL, MySQL 
 - **Infra & DevOps**: GCP (Associate Cloud Engineer), Docker, Git, CI/CD, IIS 
 - **Core Tech**: LLM (Gemini API), WebRTC (Twilio), STT/TTS 
 
-### 🌱 이런 개발을 지향해요
-- 기술은 비즈니스 문제를 해결하고 **실질적인 가치를 창출**할 때 의미가 있다고 믿습니다.
-- 무리한 재개발보다 **안정적인 서비스 운영을 전제로 한 단계적 현대화**를 통해 기술적 부채를 해결합니다.
-- 복잡한 기술적 쟁점을 비개발자 동료도 이해할 수 있도록 **쉽게 설명하고 신속한 의사결정**을 돕습니다.
+### 🌱 이런 가치를 소중히 해요
+- 제가 만든 기술이 사용자의 편의를 높이고 비즈니스 성장의 동력이 되는 것에 보람을 느낍니다.
+- 문제 하나하나를 해결해 나가는 과정에서 소확행을 얻습니다.
+- 복잡한 기술적 쟁점을 비개발자 동료도 이해할 수 있도록 쉽게 설명하고 신속한 의사결정을 돕습니다.
 
 ### 📊 GitHub Stats
 <div>
